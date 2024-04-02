@@ -1,5 +1,6 @@
-##Command collection
-###Git Branches:
+#Command collection
+
+    ###Git Branches:
 
 - git switch -c <branch-name> - create and switch to new branch
 - git switch <branchname>
